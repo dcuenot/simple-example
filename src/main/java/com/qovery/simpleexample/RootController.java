@@ -17,7 +17,7 @@ public class RootController {
     @GetMapping
     public List<User> listAll() {
         return Arrays.asList(
-                new User("Damien", "Smith", 31),
+                new User("Damien", "Moi", 31),
                 new User("John", "Dom", 24),
                 new User("Jack", "Bauer", 54)
         );
