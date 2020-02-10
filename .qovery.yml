@@ -1,6 +1,6 @@
 application:
   name: simple-example
-  project: dcu-test
+  project: plop-dcu
   cloud_region: aws/eu-west-3
   publicly_accessible: true
 routers:
